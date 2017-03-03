@@ -31,7 +31,7 @@ statuses:
         icon: handshake-o
 
 promises:
-  -
+    -
         title: 'Stop using twitter for offical announcements'
         status: Broken
         category: Culture
